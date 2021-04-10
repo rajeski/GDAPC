@@ -1,7 +1,7 @@
 # GDAPC
 Data Analytics Notes
 #### Repo for project files
-1) Ask questions / define problem.
+1) Ask questions (Problem Statement) / define problem.
 2) Prepare data by collecting / storing information.
 3) Process data by cleaning / checking information.
 4) Analyze data to find patterns, relationships, and trends.
