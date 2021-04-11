@@ -5,5 +5,5 @@ Data Analytics Notes
 2) Prepare data by collecting / storing information.
 3) Process data by cleaning / checking information.
 4) Analyze data to find patterns, relationships, and trends.
-5) Share data with your audience.
-6) Act on the data and use the analysis results.
+5) Share the data.
+6) Take action based on the data and use the analysis results.
