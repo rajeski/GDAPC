@@ -1,5 +1,5 @@
 # GDAPC
-Data Analytics Notes
+Data Analytics Course Notes
 #### Repo for project files
 1) Ask questions (Problem Statement) / define problem.
 2) Prepare data by collecting / storing information.
