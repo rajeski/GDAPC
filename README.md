@@ -9,4 +9,4 @@ Data Analytics Course Notes
 5) Share the data (ideally, with subject-matter experts).
 6) Take action based on the data and use the analysis results.
 * Two
-7) An exploration (adventure) of an artistic (creative) detective (curious)... 
+7) An exploration (adventure) of an artistic (creative) detective (curious) and how these three qualities intersect.
