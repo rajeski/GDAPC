@@ -10,3 +10,4 @@ Data Analytics Course Notes
 6) Take action based on the data and use the analysis results.
 * Two
 7) An exploration (adventure) of an artistic (creative) detective (curious) and how these three qualities intersect.
+8) Figuring out how to best-utilize the available resources to craft one's own unique narrative.
