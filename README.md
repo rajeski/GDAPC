@@ -11,4 +11,4 @@ Data Analytics Course Notes
 * Two
 7) An exploration (adventure) of an artistic (creative) detective (curious) and how these three qualities intersect.
 8) Figure out how to best-utilize the available resources to craft one's own unique narrative.
-9) 
+9) Questioning the 'catch-all' moniker for Data Science, i.e., it is not a one-sizes fits all field. 
