@@ -13,3 +13,4 @@ Data Analytics Course Notes
 8) Figure out how to best-utilize the available resources to craft one's own unique narrative.
 9) Questioning the 'catch-all' moniker for Data Science, i.e., it is not a one-sizes fits all field. 
 10) When it comes down to impact, essence matters more than form.
+11) While often a solo-endeavor, good data analytics are generated from a group-effort.
