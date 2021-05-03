@@ -14,3 +14,4 @@ Data Analytics Course Notes
 9) Questioning the 'catch-all' moniker for Data Science, i.e., it is not a one-sizes fits all field. 
 10) When it comes down to impact, essence matters more than form.
 11) While often a solo-endeavor, good data analytics are generated from a group-effort.
+12) The analytical tools used are a means to an end not an end in and of themselves.
