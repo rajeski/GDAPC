@@ -1,5 +1,5 @@
 # GDAPC
-Data Analytics Course Notes
+Data Analytics Notes
 #### Repo for project files
 * One
 1) Ask questions (Problem Statement) / define problem.
@@ -15,3 +15,4 @@ Data Analytics Course Notes
 10) When it comes down to impact, essence matters more than form.
 11) While often a solo-endeavor, good data analytics are generated from a group-effort.
 12) The analytical tools used are a means to an end not an end in and of themselves.
+13) Data as a product is a reality which is here to stay.
