@@ -16,3 +16,4 @@ Data Analytics Notes
 11) While often a solo-endeavor, good data analytics are generated from a group-effort.
 12) The analytical tools used are a means to an end not an end in and of themselves.
 13) Data as a product is a reality which is here to stay.
+14) Data ethics will continue to become an increasingly important issue.
